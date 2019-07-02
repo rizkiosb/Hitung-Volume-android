@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:paddingRight="@dimen/vertikal_margin"
+    android:paddingLeft="@dimen/vertikal_margin"
+    android:paddingTop="@dimen/horizontal_margin"
+    android:paddingBottom="@dimen/horizontal_margin"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/pindah_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pindah_activity"
+        android:gravity="center"
+        android:lines="1"
+        />
+    <Button
+        android:id="@+id/pindah_activity_dengan_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pindah_activity_dengan_data"
+        android:gravity="center"
+        android:lines="1"
+        />
+    <Button
+        android:id="@+id/pindah_activity__dengan_object"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pindah_activity_dengan_object"
+        android:gravity="center"
+        android:lines="1"
+        />
+    <Button
+        android:id="@+id/dial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dial_a_number"
+        android:gravity="center"
+        android:lines="1"
+        />
+    <Button
+        android:id="@+id/pindah_activity_untuk_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pindah_activity_untuk_reuslt"
+        android:lines="1"
+        />
+
+</LinearLayout>

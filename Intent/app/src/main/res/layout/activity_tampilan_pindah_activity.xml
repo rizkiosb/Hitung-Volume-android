@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tampilan_pindah_activity"
+    android:paddingBottom="@dimen/horizontal_margin"
+    android:paddingTop="@dimen/horizontal_margin"
+    android:paddingLeft="@dimen/vertikal_margin"
+    android:paddingRight="@dimen/vertikal_margin"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ini Tampilan Pindah Activity"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+</RelativeLayout>

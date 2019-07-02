@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="pindah_activity">PINDAH ACTIVITY</string>
+    <string name="pindah_activity_dengan_data">PINDAH ACTIVITY DENGAN DATA</string>
+    <string name="pindah_activity_dengan_object">PINDAH ACTIVITY DENGAN OBJECT</string>
+    <string name="dial_a_number">DIAL A NUMBER</string>
+    <string name="pindah_activity_untuk_reuslt">PINDAH ACTIVITY UNTUK REUSLT</string>
+    <string name="data_diterima">data_diterima</string>
+    <string name="data_object">data_object</string>
+
+</resources>

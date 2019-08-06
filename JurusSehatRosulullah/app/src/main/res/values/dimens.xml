@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="foto_width">120dp</dimen>
+    <dimen name="foto_height">120dp</dimen>
+    <dimen name="layout_width">180dp</dimen>
+</resources>
